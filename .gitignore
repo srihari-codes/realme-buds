@@ -6,3 +6,4 @@ dist
 .system_generated
 coverage
 .vite
+tests
